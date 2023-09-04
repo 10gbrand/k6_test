@@ -1,0 +1,11 @@
+url
+https://httpbin.test.k6.io/product/01
+https://httpbin.test.k6.io/product/02
+https://httpbin.test.k6.io/product/03
+https://httpbin.test.k6.io/product/04
+https://httpbin.test.k6.io/product/05
+https://httpbin.test.k6.io/product/06
+https://httpbin.test.k6.io/product/07
+https://httpbin.test.k6.io/product/08
+https://httpbin.test.k6.io/product/09
+https://httpbin.test.k6.io/product/10
